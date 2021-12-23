@@ -1,4 +1,4 @@
-= My Ascii Doc
+= My AsciiDoc
 Oliver Schatzberger
 1.0.1, 2021-12-23: Some notes
 ifndef::imagesdir[:imagesdir: images]
@@ -21,6 +21,10 @@ image:classroom.png[alt]
 
 ** now follow the introduction from the README
 image:git-push-commands.png[alt]
+
+** add text to the index.adoc when finished push it again and run `run-inside-docker.sh`
+image:docker.png[alt]
+
 
 
 
