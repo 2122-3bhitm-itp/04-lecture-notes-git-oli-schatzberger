@@ -25,6 +25,8 @@ image:git-push-commands.png[alt]
 ** add text to the index.adoc when finished push it again and run `run-inside-docker.sh`
 image:docker.png[alt]
 
+** tested the adoc
+
 
 
 
